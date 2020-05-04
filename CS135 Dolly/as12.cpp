@@ -1,6 +1,6 @@
 /* File: as12.cpp
  *
- * Name: Justin Negron
+ * Name: 
  *
  * Input: The input of this program includes a struct that we refer to
  *        and assure that our options are valid and our values are valid 
