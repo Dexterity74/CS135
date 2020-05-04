@@ -1,6 +1,6 @@
 /* File: as7.cpp
 *
-*  Name: Justin Negron
+*  Name: 
 *
 *  Input: The input of this program contained purely inputting information from a file and running what
 *         was in the file through a set of code and having that code output onto it's own file.
