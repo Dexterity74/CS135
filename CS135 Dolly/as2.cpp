@@ -1,6 +1,6 @@
 /* File: as2.cpp
  *
- * Name: Justin Negron
+ * Name: 
  *
  * Input: Using iostream and cmath, the assignment is to write a program to essentially
  * 	  calculates the time for the rocks to hit the lava. 
