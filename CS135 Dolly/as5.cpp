@@ -1,6 +1,6 @@
 /* File: as5.cpp
 *
-*  Name: Justin Negron
+*  Name: 
 *
 *  Input: The input of this program utiilized while loops and if-else statement to create a program that drew cards
 *         from a shuffled deck. 
