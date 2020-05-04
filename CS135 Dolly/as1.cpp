@@ -6,7 +6,7 @@ int main()
 {
 
  	cout << "CS135 Assignment 1" <<endl;
-	cout << "Justin Negron" <<endl;
+	cout << "" <<endl;
 	cout << " " <<endl;
 
 	cout << "   JJJJJJJJJJJJ   NN        NN " <<endl;
