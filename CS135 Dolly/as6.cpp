@@ -1,6 +1,6 @@
 /* File: as5.cpp
 *
-*  Name: Justin Negron
+*  Name: 
 *
 *  Input: The input of this program utiilized a lot of resources of assignment 4. However, this assignment testing our
 *         ability to use infile and outfile to create a program that read in a file and printed out a file with
