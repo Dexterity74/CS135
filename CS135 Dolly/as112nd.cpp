@@ -1,6 +1,6 @@
 /* File: as11.cpp
  *
- * Name: Justin Negron
+ * Name: 
  *
  * Input: The input of this program utiilizes many functions for various reasons. 
  *        Using these many functions actually simplified the program a little bit 
