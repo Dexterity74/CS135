@@ -1,6 +1,6 @@
 /* File: as4.cpp
  *
- * Name: Justin Negron
+ * Name: 
  *
  * Input: The input of this program utilized switch's and if-else statements to create a program
  * 	  that had mulitple scenarios that would execute when the user entered a value. I used case
