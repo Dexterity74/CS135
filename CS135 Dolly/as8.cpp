@@ -1,7 +1,7 @@
 /* CS135 Fall 2019 
    Assignment 8
    
-   Justin Negron
+   
 */
 
 // Don't need main function algorithm.
