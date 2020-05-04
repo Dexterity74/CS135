@@ -1,0 +1,3 @@
+Symbol: Right Arrow  Size: 5 Character: '5'
+Note: Right Arrow must have an even size.   Shape created with size: 6
+123456

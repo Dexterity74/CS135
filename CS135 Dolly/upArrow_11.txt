@@ -1,0 +1,14 @@
+Symbol: Up Arrow  Size: 11 Character: 'B'
+Note: Up Arrow must have an even size.   Shape created with size: 12
+123456789012 
+ 
+     BB       
+    BBBB        
+   BBBBBB         
+  BBBBBBBB          
+ BBBBBBBBBB           
+     BB       
+     BB       
+     BB       
+     BB       
+     BB       

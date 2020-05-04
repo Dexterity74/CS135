@@ -1,0 +1,2 @@
+Symbol: Right Arrow  Size: 12 Character: 'C'
+123456789012

@@ -1,0 +1,13 @@
+Symbol: Up Arrow  Size: 12 Character: 'C'
+123456789012 
+ 
+     CC       
+    CCCC        
+   CCCCCC         
+  CCCCCCCC          
+ CCCCCCCCCC           
+     CC       
+     CC       
+     CC       
+     CC       
+     CC       

@@ -1,0 +1,6 @@
+Symbol: Up Arrow  Size: 3 Character: '*'
+Note: Up Arrow must have an even size.   Shape created with size: 4
+1234 
+ 
+ **   
+ **   

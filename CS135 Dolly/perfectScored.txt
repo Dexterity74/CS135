@@ -1,0 +1,40 @@
+Frame #1
+-Roll #1 Strike
+-Score 30
+
+Frame #2
+-Roll #1 Strike
+-Score 60
+
+Frame #3
+-Roll #1 Strike
+-Score 90
+
+Frame #4
+-Roll #1 Strike
+-Score 120
+
+Frame #5
+-Roll #1 Strike
+-Score 150
+
+Frame #6
+-Roll #1 Strike
+-Score 180
+
+Frame #7
+-Roll #1 Strike
+-Score 210
+
+Frame #8
+-Roll #1 Strike
+-Score 240
+
+Frame #9
+-Roll #1 Strike
+-Score 270
+
+Frame #10
+-Roll #1 Strike
+-Score 300
+

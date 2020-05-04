@@ -1,0 +1,5 @@
+Symbol: Up Arrow  Size: 4 Character: '*'
+1234 
+ 
+ **   
+ **   

@@ -1,0 +1,47 @@
+Frame #1
+-Roll #1 4
+-Roll #2 Spare
+-Score 11
+
+Frame #2
+-Roll #1 1
+-Roll #2 5
+-Score 17
+
+Frame #3
+-Roll #1 9
+-Roll #2 0
+-Score 26
+
+Frame #4
+-Roll #1 Strike
+-Score 46
+
+Frame #5
+-Roll #1 7
+-Roll #2 Spare
+-Score 66
+
+Frame #6
+-Roll #1 Strike
+-Score 87
+
+Frame #7
+-Roll #1 Strike
+-Score 105
+
+Frame #8
+-Roll #1 1
+-Roll #2 7
+-Score 113
+
+Frame #9
+-Roll #1 5
+-Roll #2 2
+-Score 120
+
+Frame #10
+-Roll #1 4
+-Roll #2 3
+-Score 127
+

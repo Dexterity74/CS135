@@ -1,0 +1,2 @@
+Symbol: Right Arrow  Size: 4 Character: '5'
+1234
