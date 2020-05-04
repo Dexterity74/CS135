@@ -1,6 +1,6 @@
 /* File: as9.cpp
  *
- *  Name: Justin Negron
+ *  Name: 
  *
  *  Input: The input of this program is going to consist of functions that generate bowling score. 
  *         If we want our values from a file we will call to a bool function to read the players rolls,
