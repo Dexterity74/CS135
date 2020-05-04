@@ -1,0 +1,17 @@
+Symbol: Eight  Size: 12 Character: 'C'
+    123456789012
+
+ 1    CCCCCCCC
+ 2  CC        CC
+ 3  CC        CC
+ 4  CC        CC
+ 5  CC        CC
+ 6    CCCCCCCC
+ 7  CC        CC
+ 8  CC        CC
+ 9  CC        CC
+10  CC        CC
+11  CC        CC
+12    CCCCCCCC
+
+    123456789012

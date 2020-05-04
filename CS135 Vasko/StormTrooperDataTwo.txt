@@ -1,0 +1,16 @@
+AB-8251 MIsS HIt HiT Miss miSS HiT Hit hIT MIss Hit
+CD-1083 hit hit MISS miSs hit HiT miSs mISs hit MIsS
+EF-8072 Miss MiSS HIt miSS mISs Miss hiT MIss MISS mIs
+GH-5243 miss hIT hit miss mISS miSS hIt HIt mISs Hit
+IJ-2182 mIsS misS hit hIt Hit hit miss Hit MISS hIt
+KL-4963 mIsS misS hit hIt Hit hit miss Hit MISS hIt
+MN-6043 HIT hit miss Hit miss hIt miss hIt HIt Hit
+OP-4087 miss MISs hit MISS MiSS mISs MIss hIT Hit Miss
+QR-7759 Hit HiT Hit hiT hiT Miss MIsS MISs mIss mISs
+ST-7373 mIss HIt MISS MiSS miSs HIt miss miSs MiSS hIt
+UV-4200 hit MIsS hiT mIss MISS HIT MisS hIt hIt mISS
+WX-8054 hit hIt HIt hIt hit Miss miSs MISS hiT miSs
+YZ-0152 HiT hIT HiT MiSs HiT HiT hiT HIt HiT MiSS
+LF-8636 hIt mIsS HIT misS mISS miSs hIt hIT MiSS HIt
+FD-5513 miSs hIT HIT MIss hit hIT MISs HIT Hit miss
+

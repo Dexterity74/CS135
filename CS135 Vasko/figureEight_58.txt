@@ -1,0 +1,63 @@
+Symbol: Eight  Size: 58 Character: 'M'
+    1234567890123456789012345678901234567890123456789012345678
+
+ 1       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+ 2       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+ 3  MMMMM                                                MMMMM
+ 4  MMMMM                                                MMMMM
+ 5  MMMMM                                                MMMMM
+ 6  MMMMM                                                MMMMM
+ 7  MMMMM                                                MMMMM
+ 8  MMMMM                                                MMMMM
+ 9  MMMMM                                                MMMMM
+10  MMMMM                                                MMMMM
+11  MMMMM                                                MMMMM
+12  MMMMM                                                MMMMM
+13  MMMMM                                                MMMMM
+14  MMMMM                                                MMMMM
+15  MMMMM                                                MMMMM
+16  MMMMM                                                MMMMM
+17  MMMMM                                                MMMMM
+18  MMMMM                                                MMMMM
+19  MMMMM                                                MMMMM
+20  MMMMM                                                MMMMM
+21  MMMMM                                                MMMMM
+22  MMMMM                                                MMMMM
+23  MMMMM                                                MMMMM
+24  MMMMM                                                MMMMM
+25  MMMMM                                                MMMMM
+26  MMMMM                                                MMMMM
+27  MMMMM                                                MMMMM
+28  MMMMM                                                MMMMM
+29       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+30       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+31  MMMMM                                                MMMMM
+32  MMMMM                                                MMMMM
+33  MMMMM                                                MMMMM
+34  MMMMM                                                MMMMM
+35  MMMMM                                                MMMMM
+36  MMMMM                                                MMMMM
+37  MMMMM                                                MMMMM
+38  MMMMM                                                MMMMM
+39  MMMMM                                                MMMMM
+40  MMMMM                                                MMMMM
+41  MMMMM                                                MMMMM
+42  MMMMM                                                MMMMM
+43  MMMMM                                                MMMMM
+44  MMMMM                                                MMMMM
+45  MMMMM                                                MMMMM
+46  MMMMM                                                MMMMM
+47  MMMMM                                                MMMMM
+48  MMMMM                                                MMMMM
+49  MMMMM                                                MMMMM
+50  MMMMM                                                MMMMM
+51  MMMMM                                                MMMMM
+52  MMMMM                                                MMMMM
+53  MMMMM                                                MMMMM
+54  MMMMM                                                MMMMM
+55  MMMMM                                                MMMMM
+56  MMMMM                                                MMMMM
+57       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+58       MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+    1234567890123456789012345678901234567890123456789012345678

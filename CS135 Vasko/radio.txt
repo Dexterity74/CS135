@@ -1,0 +1,74 @@
+KCNV
+89.7
+Classical
+Claire de Lune by Claude Debussy
+
+KUNV
+91.5
+Jazz
+Avenue by Paul Taylor
+
+KYMT
+93.1
+Rock
+Smells Like Teen Spirit by Nirvana
+
+KMXB
+94.1
+Adult Contemporary
+Chasing Cars by Snow Patrol
+
+KKLZ
+96.3
+Classic Rock
+Dream On by Aerosmith
+
+KXPT
+97.1
+Classic Rock
+Stairway to Heaven by Led Zeppelin
+
+KVEG
+97.5
+Hip Hop
+HIGHEST IN THE ROOM by Travis Scott
+
+KLUC
+98.5
+Pop
+Liar by Camila Cabello
+
+KXQQ
+100.5
+R&B
+Mad by Ne-Yo
+
+KCYE
+102.7
+Country
+We Were by Keith Urban
+
+KFRH
+104.3
+Pop
+Heartless by The Weeknd
+
+KOAS
+105.7
+R&B
+My Lovin' (You're Never Gonna Get It) by En Vogue
+
+KSNE
+106.5
+Adult Contemporary
+Torn by Natalie Imbrugila
+
+KXTE
+107.5
+Alternative Rock
+Mr. Brightside by The Killers
+
+KVGS
+107.9
+Adult Contemporary
+Shape of You by Ed Sheeran
