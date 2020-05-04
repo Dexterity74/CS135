@@ -1,6 +1,6 @@
 /* File: as3.cpp
  *
- * Name: Justin Negron
+ * Name: 
  *
  * Input: The purpose of this assignment is to become more familiar with cmath and all
  * 	  of its uses. We will be using the sqrt() and pow() again from as2.cpp. Now
